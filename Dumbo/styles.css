@@ -1,0 +1,22 @@
+/*body {
+  background: url('https://thumbs.gfycat.com/SafeGrippingGuineafowl-size_restricted.gif') !important;
+}*/
+
+class {
+	background: url(https://thumbs.gfycat.com/SafeGrippingGuineafowl-size_restricted.gif);
+}
+ 
+#masthead,
+#primary {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  background-color: #fff;
+  padding: 20px !important;
+}
+#masthead {
+  background: none;
+}
+#masthead img, #primary img {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
